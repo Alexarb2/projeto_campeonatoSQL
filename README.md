@@ -34,11 +34,11 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Alexandra Ribeiro
+2) Julia Cristna
+3) Gabriel Ribeiro
+4) Tiago Freire
+5) Ricardo de Jesus
 
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
